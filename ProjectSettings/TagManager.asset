@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - minigamePlayer
+  - minigameline
+  - Tao
+  - Cat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcressing
+  - Water
+  - UI
+  - Character
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2772433869
+    locked: 0
+  - name: FG
+    uniqueID: 1854762455
+    locked: 0
+  - name: Character
+    uniqueID: 1728166857
+    locked: 0
+  - name: Cursor
+    uniqueID: 1881651171
+    locked: 0

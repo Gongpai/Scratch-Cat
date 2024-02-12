@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introl.unity
+    guid: de5c8b3da3ce0d84183d59f1468066c6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Dev2/Tutorial.unity
+    guid: 1d2f6c5deff1e2941aa8f6fb8565f3ea
+  - enabled: 1
+    path: Assets/Dev2/LevelSelect.unity
+    guid: 4eecbc206453e8f45aa123679081a5ff
+  - enabled: 1
+    path: Assets/Scenes/RoomTaoScene.unity
+    guid: 1fd7afcdcedfa5246968374f33bd8de7
+  - enabled: 1
+    path: Assets/Scenes/RoomDogScene.unity
+    guid: 14bb22b05d2cc0140a3fcef8d6baa28e
+  - enabled: 1
+    path: Assets/Scenes/RoomCatScene.unity
+    guid: 86e02b6e26ef79d41a8d11b71a295dd5
+  - enabled: 1
+    path: Assets/Scenes/RoomCapybaraScene.unity
+    guid: 01161f6479bd61d4988b0333b1561f71
+  m_configObjects: {}
